@@ -3,8 +3,6 @@ Ejercicios de consultas de bases de datos HSQL en DBeaver
 
 DIFICULTAD: Muy fácil
 
- 
-
 1 .Devuelve todas las películas
 
 2. Devuelve todos los géneros existentes
